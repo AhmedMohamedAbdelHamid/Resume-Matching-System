@@ -71,8 +71,8 @@ Domain-specific term identification:
 
 | Model | Accuracy | Key Strengths |
 |-------|----------|---------------|
-| **Random Forest** | 100% | Best overall performance, robust |
-| **Logistic Regression** | 100% | Fast inference, interpretable |
+| **Random Forest** | 96% | Best overall performance, robust |
+| **Logistic Regression** | 84% | Fast inference, interpretable |
 | **Naive Bayes** | 56% | Handles sparse data efficiently |
 
 **Top Predictive Features**:
